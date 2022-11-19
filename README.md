@@ -1,6 +1,6 @@
 # **Welcome to @jcons81627**
-## **Who is Vincent van Gogh?**
 Hello to everybody! I'm glad you're here! We will be showcasing Vincent van Gogh and his well-known artworks on this website!
+## **Who is Vincent van Gogh?**
 - ![Screenshot 2022-11-16 205006](https://user-images.githubusercontent.com/118231404/202185066-fe3bc2f0-61a9-4c2d-8f05-77e2d35766ed.png)
 - Vincent van Gogh is a Dutch painter known as one of the greatest Post-Impressionists and widely regarded as the best after Rembrandt van Rijn. In his lifetime, he only only sold one piece of art, but a century after his passing, he rose to become arguably history's most well-known painter.
   # **Vincent van Gough Paintings**
@@ -8,6 +8,7 @@ Hello to everybody! I'm glad you're here! We will be showcasing Vincent van Gogh
 - ![starry_night_full](https://user-images.githubusercontent.com/118231404/202323249-58eea70f-9a49-44fd-9e2b-b5f223c3c8c8.jpg)
 When naming Van Gogh's most well-known works, The Starry Night is probably at the top of everyone's list. It can be seen on anything, including posters, novelty socks, tote bags, computer backgrounds, tattooed arms, and more. Additionally, you can see it on the walls of the Museum of Modern Art in New York, where it serves as one of the institution's most eye-catching features (which is saying a lot given the number of other incredible paintings in MoMA's collection).
 
+Not only is The Starry Night one of Van Gogh's most well-known works of art, but it's also among the most recognizable. Even today, viewers are still moved to tears by the incredible spiraling night sky that contains many expressionist spirals.
 
 
 
