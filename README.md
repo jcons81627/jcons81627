@@ -29,4 +29,4 @@ Click the video below to learn more about his life and works of art.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wk9L1N9bRRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 We appreciate your visit and looking to seeing you again! Thank you! ❤️ 😃
 Source:
-[https://www.vangoghgallery.com/painting/](https://www.vangoghgallery.com/painting/)
+[](https://www.vangoghgallery.com/painting/)
