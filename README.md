@@ -1,6 +1,8 @@
 # **Welcome to @jcons81627**
 Hello to everybody! I'm glad you're here! We will be showcasing Vincent van Gogh and his well-known artworks on this website!
+
 Showing his three most-popular works of art (Starry Night, Sunflowers,and The Potato Eaters)
+
 ENJOY!
 ## **Who is Vincent van Gogh?**
 ![Screenshot 2022-11-16 205006](https://user-images.githubusercontent.com/118231404/202185066-fe3bc2f0-61a9-4c2d-8f05-77e2d35766ed.png)
@@ -22,6 +24,7 @@ Sunflowers appear to have completely pleased Van Gogh, as seen by the vast numbe
 Even though The Potato Eaters doesn't have the vibrant star power of some of his later works, it is nevertheless regarded as one of Van Gogh's most well-known works of art. This painting, which was created in 1885 and is a little earlier than the other works shown thus far, shows the artist's Dutch heritage. Van Gogh intended to portray the reality of peasant life as they actually were: rough, occasionally unpleasant, but also with a genuineness and tenderness inherent in the familial environment. He was greatly influenced by artists from the Hague School, particularly Jozef Israls.
 
 It was a favorite of Van Gogh's. Two years after completing it, he claimed in a letter to his sister that "the picture I painted in Nuenen of the peasants eating potatoes is, in the end, the best thing I accomplished." The topic and execution of the painting were probably very dear to Van Gogh, and he was probably sincerely happy to have completed what he regarded as one of his masterpieces.
+
 Click the video below to learn more about his life and works of art.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wk9L1N9bRRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 We appreciate your visit and looking to seeing you again! Thank you! ❤️ 😃
