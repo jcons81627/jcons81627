@@ -1,7 +1,7 @@
 # **Welcome to @jcons81627**
 Hello to everybody! I'm glad you're here! We will be showcasing Vincent van Gogh and his well-known artworks on this website!
 
-Showing his three most-popular works of art (Starry Night, Sunflowers,and The Potato Eaters)
+Showing his three most-popular works of art (Starry Night, Sunflowers, and The Potato Eaters)
 
 ENJOY!
 ## **Who is Vincent van Gogh?**
